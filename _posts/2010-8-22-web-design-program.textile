@@ -1,0 +1,102 @@
+---
+layout:   post
+title:    Two Year Web Design Program
+category: Stuff
+---
+
+p. I have the distinct pleasure to have helped create a two year web design program in Toledo Ohio at "Davis College":http://daviscollege.edu/. Davis College is a small, excellent two year fully accredited school that excels at giving students marketable skills that help them succeed beyond graduation.
+
+p. As with many schools, Davis needed help deciding what actually is a marketable skill on today's web. I was more than happy to help define what those skills should be and to teach the coding or programming related courses.
+
+h2(default). Standards
+
+p. First up was web standards. With web standards being the single most important skill for any web design position, it was important to stress standards from day one. Even graphic designers that can't code a thing need to understand web standards. To effectively design for the web, you must first understand the web.
+
+p. The Web Standards Project (WASP) ^[1]^ has an incredibly useful web standards curriculum that any college can use to help teach the skills that are viable on today's web. I use what I can from that project when applicable. It is called Interact and it is definitely worth a look.
+
+h2(default). Forwards Thinking
+
+p. Forecasting what technology will bring tomorrow is always difficult, but it is important. A few things we know right now:
+
+# Mobile is here and it is only getting stronger
+# Frameworks are amazing tools and they should be used wherever they can
+
+p. *Mobile*
+
+p. With mobile, it is important to bake those concepts in right from the start. When someone is learning the "web stack" ^[2]^; HTML, CSS, and JavaScript, they can also start learning how these technologies apply to mobile and what is available to them for this purpose.
+
+p. *Frameworks*
+
+p. I couldn't imagine building a web site without a framework. There is a framework for everything I can think of. There are even mobile frameworks. It is very easy to get up and running with a framework once you understand it, and that is what part of the program is concentrating on. Learning through action. There are two classes in particular that use this concept directly. JavaScript will touch on the basics of the language, and then dive right into building web components with jQuery. MVC concepts will concentrate on building server-side technologies within a framework. Currently, that framework will be CodeIgniter. It is important to give students the tools and knowledge they need and let them learn through doing.
+
+p. The beauty of this program is it’s ability to be agile. _You just knew I was going to squeeze agile in somewhere, didn't you?_ Davis is a small college. Their small size affords them the ability to adopt new technologies as part of their curriculum much more rapidly than larger Universities. Look for more current technologies to show up in this program as it matures.
+
+h2(default). What About Design?
+
+p. This program wouldn’t be much if it were just the web technologies. Aesthetics play a big part in today’s web. The program also includes a full plate of graphic design related courses instructed by Holly Whitney.
+
+p. As students are learning typography, layout, and color theory; they will also be learning how to adapt these skills to the web. A win/win situation.
+
+p. I wish I could share some of the great things that are either being planned, implemented, or mentioned as a possibility. The team at Davis has some great things planned to help move this program forward along side emerging web technologies. Even if I wasn’t part of the team I would suggest this program to anyone playing on the web and considering a career in it.
+
+p. Here is the current program outline. The official program description, outline, and objectives can be viewed in pdf form "here":http://daviscollege.edu/program%20PDF/Website%20Design.pdf
+
+h2(default). Program Outline
+
+* Introduction to HTML
+* Drawing Principles
+* Drawing Concepts
+* 2D Design
+* 3D Design
+* Letterforms
+* Typography
+* History of Graphic Design
+* Color Principles
+* Digital Illustration
+* Digital Photography
+* CSS (Advanced CSS)
+* ActionScript
+* Website Publishing (Version Control)
+* Client Side Scripting (JavaScript)
+* Web Page Design
+* MVC Concepts (Building Database Driven websites within a Model View Controller framework)
+* Website Design Externship
+* Portfolio Preparation and Professional Practices
+* Introduction to Business
+* Marketing
+* Marketing Elective
+* Business Communications
+* Composition I
+* Composition II
+* Communication Elective
+* Humanities Elective
+* Introductory Algebra
+* Science Electives
+* Economics
+* Social Science Electives
+* Forum on Technology and Resources
+
+p. This blog doesn't have comments. If you have questions or comments, hit me up on Twitter or drop me an email.
+
+p. "@scottradcliff":http://twitter.com/scottradcliff
+  <script type="text/javascript"> 
+          //<![CDATA[
+          <!--
+          var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+          "=121){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return " +
+          "o.substr(0,ol);}f(\")66,\\\"330\\\\/%4>%{6${771\\\\tyv2771\\\\q/k`,{e{L9$Y&" +
+          "_?dln\\\\420\\\\010\\\\[X%520\\\\030\\\\520\\\\[030\\\\230\\\\320\\\\430\\\\"+
+          "720\\\\/r\\\\630\\\\n\\\\r\\\\300\\\\500\\\\310\\\\300\\\\700\\\\720\\\\^41" +
+          "0\\\\620\\\\r\\\\t\\\\>3771\\\\000\\\\f<<*?v4hqz?<*:$><d=&\\\"\\\\+0',&\\\"" +
+          "(f};o nruter};))++y(^)i(tAedoCrahc.x(edoCrahCmorf.gnirtS=+o;721=%y{)++i;l<i" +
+          ";0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                     ;
+          while(x=eval(x));
+          //-->
+          //]]>
+          </script>
+
+p. *Footnotes*
+
+fn1. "The Web Standards Project is a grassroots coalition fighting for standards which ensure simple, affordable access to web technologies for all." -- "http://www.webstandards.org/":http://www.webstandards.org/
+
+fn2. While he didn't invent the term web stack, Eric Meyer has a nice little description of what the web stack is. "http://meyerweb.com/eric/thoughts/2010/05/19/the-web-stack/":http://meyerweb.com/eric/thoughts/2010/05/19/the-web-stack/

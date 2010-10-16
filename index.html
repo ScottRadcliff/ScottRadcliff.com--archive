@@ -1,0 +1,11 @@
+---
+layout:   index
+title:    Scott Radcliff - Web Developer
+---
+
+{% for p in site.posts limit:10 %}
+<a href="{{p.url}}" class="blog-heading">{{p.title}}</a>
+{{p.content}}
+{% endfor %}
+
+{{paginator.previous_page}} {{paginator.page}} <a href="/page{{paginator.next_page}}">{{paginator.next_page}}</a>

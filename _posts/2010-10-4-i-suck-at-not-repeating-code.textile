@@ -1,0 +1,11 @@
+---
+layout:   post
+title:    I Suck at Not Repeating Code
+category: Code
+---
+
+p. Every once in a while, a person has an eye-opening experience that causes them to rethink how they work, act, or react to certain situations. I have encountered such an experience. It would seem I am not as good at DRY principles as I would like to be. The good news is, I don't think any of us are really where we would like to be when it comes to not repeating code. The bad news is, I thought I was a little better at it than I currently am. In defense of myself, the code in question is complex. There are multiple data sources all congregating in one place. Writing quick functions to perform tasks rather than really thinking about how to abstract the data is way too tempting, and I bit.
+
+p. So now, after I beat myself up for a few hours for being stupid, I look at what I did wrong and make sure next time I am in a similar situation, I take the time to make sure I am optimizing the code instead of taking shortcuts and making more work for myself and fellow developers in the process.
+
+p. Oh yeah, if you are a developer and have not read The Pragmatic Programmer, do it now. "Get the book":http://www.pragprog.com/the-pragmatic-programmer

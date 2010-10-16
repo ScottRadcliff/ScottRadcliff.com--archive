@@ -1,0 +1,12 @@
+---
+
+---
+{% include header.html %}
+{% for p in site.posts %}
+<a href="{{p.url}}" class="blog-heading">{{p.title}}</a>
+{{p.content}}
+{% endfor %}
+<!-- Start Pagination -->
+<p>Showing {{paginator.page}} of {{paginator.total_pages}}</p>
+</div>
+{% include footer.html %}

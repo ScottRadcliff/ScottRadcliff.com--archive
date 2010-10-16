@@ -1,0 +1,15 @@
+---
+layout:   post
+title:    Font-face Overuse
+category: Design
+---
+
+p. I read a great post by Brian Hoff over at "The Design Cubicle":http://www.thedesigncubicle.com/ this morning about space in typography. While the post is very informative and well worth reading, the most interesting part of the post for me was the reference to overuse of new and exciting technologies.
+
+p. As web designers and developers, we have a tendency to jump all over anything new and refreshing resulting in extreme overuse and eventually rendering the technology as generic. This goes all the way back to Flash. I'm sure we all remember how painful it was to see gaudy animations on every page. Now we are starting to see the same thing with JavaScript animations. I personally think that many of the animations are unnecessary, and add little value to the experience they are being used in. Is this pattern going to continue with @font-face? Are we going to abuse it by embedding fonts on every page because we can? I hope not.
+
+p. I side with Brian on this one. Typography is arguably the most important aspect of web design. If you are like me, and not as knowledgeable about typography as you should be. Educate yourself before you go embedding fonts like a crazy person.
+
+p. "Improving typography through space":http://www.thedesigncubicle.com/2010/05/improve-typography-through-space - The Design Cubicle
+
+
