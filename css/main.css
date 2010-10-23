@@ -5,3 +5,48 @@
 * Date: 2010-10-06
 */
 
+
+
+/* Theme Styles */
+/*
+ * Theme Colors:
+ * #0066FF - Light Blue
+ * #003366 - Dark Blue
+ * #CCCCCC - Grey
+ * #000000 - Black
+ * #990000 - Dark Red
+**/
+img {-webkit-box-shadow: #333 5px 5px 5px; -moz-box-shadow: #333 5px 5px 5px; border: 2px solid #CCC;}
+h1, h2, h3, h4, h5, h6, blockquote {font-family: Georgia, "Times New Roman"; font-style: italic;}
+body {font-size: 80%;}
+section {display: block;}
+.post-date {color: #666; font: italic normal 90% Georgia, "Times New Roman";}
+/* End Theme Styles*/
+
+
+
+
+/* Globals*/
+#content, #sidebar {margin-top: 100px;}
+#content > section {margin-bottom: 100px;}
+#title {
+  background: #000; 
+  padding: 22px; 
+  color: #fff;
+  -moz-box-shadow: 2px 2px 7px #666;
+  text-decoration: none;
+  font-size: 30px;
+  }
+ul.simple {list-style-type: none; position: relative; right: 20px;}
+/* End Globals */
+
+
+
+/* Index Page */
+h1.blog-heading a {color: #036; text-decoration: none;}
+/* End Index Page*/
+
+
+/* Post Page */
+h1.blog-heading {color: #036;}
+/* End Post Page */

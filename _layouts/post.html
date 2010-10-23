@@ -1,8 +1,14 @@
 {% include header.html %}
-<h1>{{page.title}}</h1>
-{{content}}
 
-{% for p in site.posts %}
-  <p><a href="{{p.url}}">{{p.title}}</a></p>
-{% endfor %}
+<div id="content" class="column span-18 append-1">
+  <section>
+    <header>
+      <h1 class="blog-heading">{{page.title}}</h1>
+    </header>
+    <p class="post-date">Posted on: {{page.date | date: "%A, %B %d, %Y"}}</p>
+      {{content}}
+  </section>
+</div>
+{% include sidebar.html %}
+
 {% include footer.html %}
