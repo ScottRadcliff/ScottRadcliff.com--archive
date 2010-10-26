@@ -34,6 +34,7 @@ section {display: block;}
   padding: 22px; 
   color: #fff;
   -moz-box-shadow: 2px 2px 7px #666;
+  -webkit-box-shadow: 2px 2px 7px #666;
   text-decoration: none;
   font-size: 30px;
   }
