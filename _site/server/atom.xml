@@ -4,23 +4,13 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2010-11-05T10:55:45-04:00</updated>
+ <updated>2010-11-05T10:44:07-04:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
- 
- <entry>
-   <title>Using Vim</title>
-   <link href="http://scottradcliff.com/Code/2010/10/05/using-vim.html"/>
-   <updated>2010-10-05T00:00:00-04:00</updated>
-   <id>http://scottradcliff.com/Code/2010/10/05/using-vim</id>
-   <content type="html">&lt;p&gt;This was day two of using Vim as my editor. There are some features that are really growing on me, and some that I just don&amp;#8217;t like. I absolutely love the little keyboard shortcuts for things like copying an entire line &amp;#8220;yy&amp;#8221; or &amp;#8220;Y&amp;#8221;, jumping to a line :[line number] (so typing :25 takes me to line 25) , and &amp;#8220;p&amp;#8221; for pasting from the clipboard. Those are real time savers and I can really see how these can save me time.&lt;/p&gt;
-&lt;p&gt;For the life of me, at least so far, I cannot map my brain to use &amp;#8220;hjkl&amp;#8221; for cursor movement. I end up spending quite a bit of time in insert mode. When I am in command mode, I have to force myself to use those keys, and even then I have to stop and think about what I am doing. After two days, I don&amp;#8217;t think I am much faster than I am in TextMate. I make pretty extensive use of TextMate snippets when in TextMate, so I ended up with a pretty fast workflow with that editor.&lt;/p&gt;
-&lt;p&gt;I am just not sure that the parts that I like will keep me in Vim. I may end up back in TextMate. That being said, I have been learned something everyday that makes me like Vim a little bit more.&lt;/p&gt;</content>
- </entry>
  
  <entry>
    <title>I Suck at Not Repeating Code</title>
