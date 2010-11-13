@@ -1,0 +1,19 @@
+---
+layout:   post
+title:    This is not Documentation
+category: code
+---
+
+bq. *Variables*
+A full discussion of the available variables is not feasible there is a great deal of interdependence between the various form fields, variables, and javascript functions. The Parameters can be used to modify how the search behaves. If you wish to modify the search form itself, simply use the default form as a base and customize it from there.
+"Source":http://expressionengine.com/user_guide/modules/search/advanced.html
+
+p. That was pulled straight from the Expression Engine documentation. The problem is that I need to know what those variables are and what is available to me. Sure I can pull up the files and read the code, but this is precisely what documentation is for. 
+
+p. This is one of the problems with Expression Engine. Developers turn to this documentation for guidance on how to use the software. This documentation is supposed to be an API. Typically, when someone turns to an API they are looking for answers.
+
+p. EE gets a bad rap from some, myself included, because the systems is difficult to use. Others love the system. You either love it or hate it. I think the people that love the system, must be content to work in the control panel, while the people that dislike it would rather dig into the code and refine it a bit more.
+
+p. Either way, telling a paying customer that the discussion on an integral part of your system is "not feasible" is irresponsible and unprofessional.
+
+p. You can do better than that.
