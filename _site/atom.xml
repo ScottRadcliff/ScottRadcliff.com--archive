@@ -4,13 +4,33 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2010-11-16T15:43:02-05:00</updated>
+ <updated>2010-11-19T11:03:00-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Simple is Hard</title>
+   <link href="http://scottradcliff.com/Code/2010/11/19/simple-is-hard.html"/>
+   <updated>2010-11-19T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/Code/2010/11/19/simple-is-hard</id>
+   <content type="html">&lt;p&gt;While sketching out and thinking through some code for a project, I am reminded again how hard it is make things simple. I have a natural tendency to over complicate code when I am developing. Call it over engineering, over thinking, thinking too much; whatever you tag it with, I seem to be plagued by it.&lt;/p&gt;
+&lt;p&gt;Here are a few things I try to do to make development simple.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Break everything down to the smallest possible task&lt;/strong&gt;&lt;br /&gt;
+Take the largest of tasks and break them down to very small manageable tasks, and concentrate on those smaller tasks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pseudo-code everything&lt;/strong&gt;&lt;br /&gt;
+I prefer to pseudo-code just about everything. This helps me in a few ways.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;It helps me catch logical errors before they end up in code and become harder to find.  &lt;/li&gt;
+	&lt;li&gt;It allows me to think about the methods that I may need to complete the task. I am usually working with some sort of &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt; so this often helps me dig through the docs for the best solution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Worth noting that I don’t get crazy with the pseudo-code, just get the steps involved down on paper so I can see what is going on.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Take a lot of short breaks&lt;/strong&gt;&lt;br /&gt;
+These little breaks bring me back to reality when I start to over-complicate the problem that is trying to be solved. These breaks often involve a “duh” moment.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Using Vim</title>
