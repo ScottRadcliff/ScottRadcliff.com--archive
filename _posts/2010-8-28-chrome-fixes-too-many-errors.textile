@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Chrome Fixes Too Man Errors
+title:    Chrome Fixes Too Many Errors
 category: Code
 ---
 
