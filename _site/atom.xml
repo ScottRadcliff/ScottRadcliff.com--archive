@@ -4,13 +4,35 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2010-11-24T11:46:59-05:00</updated>
+ <updated>2010-11-30T07:29:23-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>BDD for a Newbie</title>
+   <link href="http://scottradcliff.com/2010/11/30/bdd-newbie.html"/>
+   <updated>2010-11-30T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2010/11/30/bdd-newbie</id>
+   <content type="html">&lt;p&gt;I recently decided to put Cucumber and some &lt;span class=&quot;caps&quot;&gt;BDD&lt;/span&gt; to use on a real app. One problem. I drew a complete blank.  Not just &amp;#8220;how do I write this test&amp;#8221; kind of blank, but more like a &amp;#8220;Okay, I&amp;#8217;m completely lost. I thought I knew how this stuff worked&amp;#8221; kind of blank.&lt;/p&gt;
+&lt;p&gt;Thanks to the awesome screencast from &lt;a href=&quot;http://peepcode.com&quot;&gt;PeepCode&lt;/a&gt;, I realized that I was going about it wrong. At least from a beginner point of view. I was writing say, 4-5 steps and then running the tests with no idea on how I should write the code to make it pass.&lt;/p&gt;
+&lt;p&gt;While watching the screencast I realized that I needed to break it down to one step. Just one very easy step at a time. Oh yeah, and there are already steps written in web_steps.rb. Use those.&lt;/p&gt;
+&lt;p&gt;My code went from:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Given I am a logged in user&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;When I am on the index page&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;I should see a list of items&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Which would fail on the first step and have a few undefined steps.&lt;/p&gt;
+&lt;p&gt;To:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Given I am on the index page&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Run that simple step. Make it pass, if doesn&amp;#8217;t already, and then move on to the next step. I guess they are called steps for a reason after all.&lt;/p&gt;
+&lt;p&gt;My next step at this point might be:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;I should see &quot;My Super Cool App&quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Now run that step. Make it pass and add another. Do that until I reach the end of that scenario.&lt;/p&gt;
+&lt;p&gt;This may seem silly to those that are fluent in &lt;span class=&quot;caps&quot;&gt;BDD&lt;/span&gt;, but it really helped me wrap my head around the process of writing passing tests.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Simple is Hard</title>
@@ -44,9 +66,9 @@ These little breaks bring me back to reality when I start to over-complicate the
  
  <entry>
    <title>This is not Documentation</title>
-   <link href="http://scottradcliff.com/code/2010/11/05/this-is-not-documentation.html"/>
+   <link href="http://scottradcliff.com/Code/2010/11/05/this-is-not-documentation.html"/>
    <updated>2010-11-05T00:00:00-04:00</updated>
-   <id>http://scottradcliff.com/code/2010/11/05/this-is-not-documentation</id>
+   <id>http://scottradcliff.com/Code/2010/11/05/this-is-not-documentation</id>
    <content type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Variables&lt;/strong&gt;&lt;br /&gt;
 A full discussion of the available variables is not feasible there is a great deal of interdependence between the various form fields, variables, and javascript functions. The Parameters can be used to modify how the search behaves. If you wish to modify the search form itself, simply use the default form as a base and customize it from there.&lt;br /&gt;
@@ -106,7 +128,7 @@ A full discussion of the available variables is not feasible there is a great de
  </entry>
  
  <entry>
-   <title>Chrome Fixes Too Man Errors</title>
+   <title>Chrome Fixes Too Many Errors</title>
    <link href="http://scottradcliff.com/Code/2010/08/28/chrome-fixes-too-many-errors.html"/>
    <updated>2010-08-28T00:00:00-04:00</updated>
    <id>http://scottradcliff.com/Code/2010/08/28/chrome-fixes-too-many-errors</id>

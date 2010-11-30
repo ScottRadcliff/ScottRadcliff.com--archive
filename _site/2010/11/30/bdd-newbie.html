@@ -27,13 +27,24 @@
 <div id="content" class="column span-18 append-1">
   <section>
     <header>
-      <h1 class="blog-heading">Chrome Fixes Too Many Errors</h1>
+      <h1 class="blog-heading">BDD for a Newbie</h1>
     </header>
-    <p class="post-date">Posted on: Saturday, August 28, 2010</p>
-      <p>As a web developer, I need to see errors. Also, as a web developer, I need to be fast. These two requirements have caused me to jump from browser to browser like a madman. Firefox has the best debugging tools, but is too fat. Safari is super sleek, pretty fast, but I hate having to tab through tabs, or <em>gasp</em> reach for my mouse. I thought Chrome was getting there. It’s super fast, has some decent debugging tools, and seems to be gaining ground.</p>
-<p>Unfortunately, I have an issue with Chrome that I am not sure I can get past. It auto-fixes too much. What I mean by that is that it takes my mistakes, which could be formatting errors, syntax errors, etc., and fixes them for me. Sounds great; except for one problem. Users that are using other browsers happen to see what I missed. Sure, I check in different browsers, but I don’t always have the time to check a browser for a simple change. If I screwed something up, I need to see that it is broken. Don’t fix it for me.</p>
-<p>Okay, a few examples. Encoding issues seem to be auto-fixed in Chrome. I had some markup that wasn’t properly replaced with <span class="caps">HTML</span> entities and Chrome fixed them before displaying them. This is an awesome feature for an everyday user, not so great for a web developer. Another example: working on a page with a very large form that displays additional elements as needed. I had to make a quick change. Chrome showed the new change beautifully. Firefox/Safari showed the wreck that an error left behind.</p>
-<p>Sorry Chrome, I would rather develop in a browser that allows me to see what is really happening. Maybe a “Developer mode” would allow a developer to see a page as it renders.</p>
+    <p class="post-date">Posted on: Tuesday, November 30, 2010</p>
+      <p>I recently decided to put Cucumber and some <span class="caps">BDD</span> to use on a real app. One problem. I drew a complete blank.  Not just &#8220;how do I write this test&#8221; kind of blank, but more like a &#8220;Okay, I&#8217;m completely lost. I thought I knew how this stuff worked&#8221; kind of blank.</p>
+<p>Thanks to the awesome screencast from <a href="http://peepcode.com">PeepCode</a>, I realized that I was going about it wrong. At least from a beginner point of view. I was writing say, 4-5 steps and then running the tests with no idea on how I should write the code to make it pass.</p>
+<p>While watching the screencast I realized that I needed to break it down to one step. Just one very easy step at a time. Oh yeah, and there are already steps written in web_steps.rb. Use those.</p>
+<p>My code went from:</p>
+<p><code>Given I am a logged in user</code><br />
+<code>When I am on the index page</code><br />
+<code>I should see a list of items</code></p>
+<p>Which would fail on the first step and have a few undefined steps.</p>
+<p>To:</p>
+<p><code>Given I am on the index page</code></p>
+<p>Run that simple step. Make it pass, if doesn&#8217;t already, and then move on to the next step. I guess they are called steps for a reason after all.</p>
+<p>My next step at this point might be:</p>
+<p><code>I should see "My Super Cool App"</code></p>
+<p>Now run that step. Make it pass and add another. Do that until I reach the end of that scenario.</p>
+<p>This may seem silly to those that are fluent in <span class="caps">BDD</span>, but it really helped me wrap my head around the process of writing passing tests.</p>
   </section>
 </div>
 <div id="sidebar" class="span-5 column last">
