@@ -12,7 +12,4 @@ p. The hidden gem in all of this? Learning through exploration and dialogue. Whi
 
 p. Lesson? _Always_ have a non vendor specific fall back.
 
-<<<<<<< HEAD
-=======
 
->>>>>>> pagination
