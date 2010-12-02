@@ -3,7 +3,8 @@ layout:   index
 title:    Scott Radcliff - Web Developer
 ---
 
-{% for p in site.posts limit:10 %}
+
+{% for p in paginator.posts  %}
 <section>
   <header>
     <h1 class="blog-heading"><a href="{{p.url}}" class="blog-heading">{{p.title}}</a></h1>
@@ -13,5 +14,4 @@ title:    Scott Radcliff - Web Developer
 </section>
 
 {% endfor %}
-
-{{paginator.previous_page}} {{paginator.page}} <a href="/page{{paginator.next_page}}">{{paginator.next_page}}</a>
+<p>View older posts: {{paginator.previous_page}} {{paginator.page}} <a href="/page{{paginator.next_page}}">{{paginator.next_page}}</a></p>
