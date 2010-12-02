@@ -28,6 +28,18 @@
   
 <section>
   <header>
+    <h1 class="blog-heading"><a href="/2010/12/02/vendor-css.html" class="blog-heading">Vendor Specific CSS</a></h1>
+  </header>
+  <p class="post-date">Posted on: Thursday, December 02, 2010</p>
+    <p>Teaching is a lot of fun, and often I end up being the one that is learning. This past Tuesday, while teaching the basics of <span class="caps">CSS</span>, a student had asked me about adding a drop shadow to the text on the project we were building. I thought this was a great opportunity to let them see how powerful <span class="caps">CSS</span> is and display how they should be cautious about vendor specific tags.</p>
+<p>I got schooled, right there in front of the students. While trying to use -moz-text-shadow and watching it fail repeatedly, we discovered that text-shadow is now fully supported in Firefox. Firefox has dropped support for the vendor specific version. I assume Webkit has also.</p>
+<p>The hidden gem in all of this? Learning through exploration and dialogue. While I was trying to debug my <span class="caps">CSS</span> code, students hit the Internet in an attempt to help. It was actually a student that found out that Firefox dropped support for the tag. That type of learning cannot be duplicated. Those students will remember how we solved that problem. There is not a book available that can teach that.</p>
+<p>Lesson? <em>Always</em> have a non vendor specific fall back.</p>
+</section>
+
+
+<section>
+  <header>
     <h1 class="blog-heading"><a href="/2010/11/30/bdd-newbie.html" class="blog-heading">BDD for a Newbie</a></h1>
   </header>
   <p class="post-date">Posted on: Tuesday, November 30, 2010</p>
@@ -171,6 +183,119 @@ A full discussion of the available variables is not feasible there is a great de
 <p>One point in particular has really jumped out at me. The book discusses that the act of coding is only 10% of programming. Sure, I have always known this fact; I still struggle with it. I get under the gun, projects get demanding, I misunderstand the requirements, and I immediately associate productivity with my fingers punching out code as fast as they possiblly can. The result is always the same. I get half way through it and start removing code, noticing there is a better way to do a certain task, or get frustrated with code bloat.<br />
 p. I have been reminded that 90% of programming is thinking. I am much more productive when I open Pages, lay out the objectives, write pseudo-code, review, and then write the actual code. Not only am I more productive, but the code is leaner, faster, and smarter. I have a chance to catch bugs or errors before it is in the code, and I have the opportunity to re-think the logic.</p>
 <p><a href="http://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1282745599&amp;sr=1-1">The Mythical Man Month: Essays on Software Engineering</a></p>
+</section>
+
+
+<section>
+  <header>
+    <h1 class="blog-heading"><a href="/Stuff/2010/08/22/web-design-program.html" class="blog-heading">Two Year Web Design Program</a></h1>
+  </header>
+  <p class="post-date">Posted on: Sunday, August 22, 2010</p>
+    <p>I have the distinct pleasure to have helped create a two year web design program in Toledo Ohio at <a href="http://daviscollege.edu/">Davis College</a>. Davis College is a small, excellent two year fully accredited school that excels at giving students marketable skills that help them succeed beyond graduation.</p>
+<p>As with many schools, Davis needed help deciding what actually is a marketable skill on today&#8217;s web. I was more than happy to help define what those skills should be and to teach the coding or programming related courses.</p>
+<h2 class="default">Standards</h2>
+<p>First up was web standards. With web standards being the single most important skill for any web design position, it was important to stress standards from day one. Even graphic designers that can&#8217;t code a thing need to understand web standards. To effectively design for the web, you must first understand the web.</p>
+<p>The Web Standards Project (<span class="caps">WASP</span>) <sup><sup class="footnote" id="fnr1"><a href="#fn1">1</a></sup></sup> has an incredibly useful web standards curriculum that any college can use to help teach the skills that are viable on today&#8217;s web. I use what I can from that project when applicable. It is called Interact and it is definitely worth a look.</p>
+<h2 class="default">Forwards Thinking</h2>
+<p>Forecasting what technology will bring tomorrow is always difficult, but it is important. A few things we know right now:</p>
+<ol>
+	<li>Mobile is here and it is only getting stronger</li>
+	<li>Frameworks are amazing tools and they should be used wherever they can</li>
+</ol>
+<p><strong>Mobile</strong></p>
+<p>With mobile, it is important to bake those concepts in right from the start. When someone is learning the &#8220;web stack&#8221; <sup><sup class="footnote" id="fnr2"><a href="#fn2">2</a></sup></sup>; <span class="caps">HTML</span>, <span class="caps">CSS</span>, and JavaScript, they can also start learning how these technologies apply to mobile and what is available to them for this purpose.</p>
+<p><strong>Frameworks</strong></p>
+<p>I couldn&#8217;t imagine building a web site without a framework. There is a framework for everything I can think of. There are even mobile frameworks. It is very easy to get up and running with a framework once you understand it, and that is what part of the program is concentrating on. Learning through action. There are two classes in particular that use this concept directly. JavaScript will touch on the basics of the language, and then dive right into building web components with jQuery. <span class="caps">MVC</span> concepts will concentrate on building server-side technologies within a framework. Currently, that framework will be CodeIgniter. It is important to give students the tools and knowledge they need and let them learn through doing.</p>
+<p>The beauty of this program is it’s ability to be agile. <em>You just knew I was going to squeeze agile in somewhere, didn&#8217;t you?</em> Davis is a small college. Their small size affords them the ability to adopt new technologies as part of their curriculum much more rapidly than larger Universities. Look for more current technologies to show up in this program as it matures.</p>
+<h2 class="default">What About Design?</h2>
+<p>This program wouldn’t be much if it were just the web technologies. Aesthetics play a big part in today’s web. The program also includes a full plate of graphic design related courses instructed by Holly Whitney.</p>
+<p>As students are learning typography, layout, and color theory; they will also be learning how to adapt these skills to the web. A win/win situation.</p>
+<p>I wish I could share some of the great things that are either being planned, implemented, or mentioned as a possibility. The team at Davis has some great things planned to help move this program forward along side emerging web technologies. Even if I wasn’t part of the team I would suggest this program to anyone playing on the web and considering a career in it.</p>
+<p>Here is the current program outline. The official program description, outline, and objectives can be viewed in pdf form <a href="http://daviscollege.edu/program%20PDF/Website%20Design.pdf">here</a></p>
+<h2 class="default">Program Outline</h2>
+<ul>
+	<li>Introduction to <span class="caps">HTML</span></li>
+	<li>Drawing Principles</li>
+	<li>Drawing Concepts</li>
+	<li>2D Design</li>
+	<li>3D Design</li>
+	<li>Letterforms</li>
+	<li>Typography</li>
+	<li>History of Graphic Design</li>
+	<li>Color Principles</li>
+	<li>Digital Illustration</li>
+	<li>Digital Photography</li>
+	<li><span class="caps">CSS</span> (Advanced <span class="caps">CSS</span>)</li>
+	<li>ActionScript</li>
+	<li>Website Publishing (Version Control)</li>
+	<li>Client Side Scripting (JavaScript)</li>
+	<li>Web Page Design</li>
+	<li><span class="caps">MVC</span> Concepts (Building Database Driven websites within a Model View Controller framework)</li>
+	<li>Website Design Externship</li>
+	<li>Portfolio Preparation and Professional Practices</li>
+	<li>Introduction to Business</li>
+	<li>Marketing</li>
+	<li>Marketing Elective</li>
+	<li>Business Communications</li>
+	<li>Composition I</li>
+	<li>Composition II</li>
+	<li>Communication Elective</li>
+	<li>Humanities Elective</li>
+	<li>Introductory Algebra</li>
+	<li>Science Electives</li>
+	<li>Economics</li>
+	<li>Social Science Electives</li>
+	<li>Forum on Technology and Resources</li>
+</ul>
+<p>This blog doesn&#8217;t have comments. If you have questions or comments, hit me up on Twitter or drop me an email.</p>
+<p><a href="http://twitter.com/scottradcliff">@scottradcliff</a><br />
+  <script type="text/javascript"> 
+          //<![CDATA[
+          <!--
+          var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+          "=121){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return " +
+          "o.substr(0,ol);}f(\")66,\\\"330\\\\/%4>%{6${771\\\\tyv2771\\\\q/k`,{e{L9$Y&" +
+          "_?dln\\\\420\\\\010\\\\[X%520\\\\030\\\\520\\\\[030\\\\230\\\\320\\\\430\\\\"+
+          "720\\\\/r\\\\630\\\\n\\\\r\\\\300\\\\500\\\\310\\\\300\\\\700\\\\720\\\\^41" +
+          "0\\\\620\\\\r\\\\t\\\\>3771\\\\000\\\\f<<*?v4hqz?<*:$><d=&\\\"\\\\+0',&\\\"" +
+          "(f};o nruter};))++y(^)i(tAedoCrahc.x(edoCrahCmorf.gnirtS=+o;721=%y{)++i;l<i" +
+          ";0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                     ;
+          while(x=eval(x));
+          //-->
+          //]]>
+          </script></p>
+<p><strong>Footnotes</strong></p>
+<p class="footnote" id="fn1"><a href="#fnr1"><sup>1</sup></a> &#8220;The Web Standards Project is a grassroots coalition fighting for standards which ensure simple, affordable access to web technologies for all.&#8221; &#8212; <a href="http://www.webstandards.org/">http://www.webstandards.org/</a></p>
+<p class="footnote" id="fn2"><a href="#fnr2"><sup>2</sup></a> While he didn&#8217;t invent the term web stack, Eric Meyer has a nice little description of what the web stack is. <a href="http://meyerweb.com/eric/thoughts/2010/05/19/the-web-stack/">http://meyerweb.com/eric/thoughts/2010/05/19/the-web-stack/</a></p>
+</section>
+
+
+<section>
+  <header>
+    <h1 class="blog-heading"><a href="/Code/2010/07/08/blurred-development.html" class="blog-heading">Blurred Development</a></h1>
+  </header>
+  <p class="post-date">Posted on: Thursday, July 08, 2010</p>
+    <p>I have long thought that the line between developer and designer has become blurred. The instances where someone will only design a site are minimal. Today, designers are expected to be comfortable with the front-end; <span class="caps">HTML</span>, <span class="caps">CSS</span>, and JavaScript, and developers should be comfortable with the elements of design; typography, proportion and scale, line, balance, etc.. If you are a developer and do not know any elements of design, Digital Web has a good primer from 2005 <a href="http://www.digital-web.com/articles/elements_of_design/">http://www.digital-web.com/articles/elements_of_design/</a></p>
+<p>I believe in this so much that I helped design a new two year college course that emphasizes web standards and teaches front-end development along side graphic design. It teaches jQuery, advanced <span class="caps">CSS</span> (meaning image sprites, CSS3, etc.), some HTML5, <span class="caps">MVC</span> concepts, and even version control. Those are all skills that a designer should have. This program is at Davis College and is listed <a href="http://daviscollege.edu/Program%20pdf/Website%20Design.pdf">here</a> [<span class="caps">PDF</span> file]</p>
+<p>The point of my post is to share a link to the best darn podcasters on the net. Dan Benjamin and Jason Seifer do a few podcasts together, and I laugh every time I watch/listen to one of them, but the latest episode of the Dev Show showed me that they share my thoughts on blurred lines in web design. It’s a great show with lots of resources. Check it out.</p>
+<p><a href="http://5by5.tv/devshow/14">Episode 14 of The Dev Show &#8211; Design for Developers</a></p>
+<p>Also, you can check out Dan and Jason on their two podcasts:</p>
+<ul>
+	<li><a href="http://5by5.tv/devshow">The Dev Show</a></li>
+	<li><a href="http://5by5.tv/rubyshow">The Ruby Show</a></li>
+</ul>
+</section>
+
+
+<section>
+  <header>
+    <h1 class="blog-heading"><a href="/Design/2010/05/05/font-face-overuse.html" class="blog-heading">Font-face Overuse</a></h1>
+  </header>
+  <p class="post-date">Posted on: Wednesday, May 05, 2010</p>
+    <p>I read a great post by Brian Hoff over at <a href="http://www.thedesigncubicle.com/">The Design Cubicle</a> this morning about space in typography. While the post is very informative and well worth reading, the most interesting part of the post for me was the reference to overuse of new and exciting technologies.</p>
+<p>As web designers and developers, we have a tendency to jump all over anything new and refreshing resulting in extreme overuse and eventually rendering the technology as generic. This goes all the way back to Flash. I&#8217;m sure we all remember how painful it was to see gaudy animations on every page. Now we are starting to see the same thing with JavaScript animations. I personally think that many of the animations are unnecessary, and add little value to the experience they are being used in. Is this pattern going to continue with @font-face? Are we going to abuse it by embedding fonts on every page because we can? I hope not.</p>
+<p>I side with Brian on this one. Typography is arguably the most important aspect of web design. If you are like me, and not as knowledgeable about typography as you should be. Educate yourself before you go embedding fonts like a crazy person.</p>
+<p><a href="http://www.thedesigncubicle.com/2010/05/improve-typography-through-space">Improving typography through space</a> &#8211; The Design Cubicle</p>
 </section>
 
 
