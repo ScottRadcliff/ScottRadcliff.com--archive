@@ -4,13 +4,24 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2010-11-30T07:29:23-05:00</updated>
+ <updated>2010-12-02T10:10:55-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Vendor Specific CSS</title>
+   <link href="http://scottradcliff.com/2010/12/02/vendor-css.html"/>
+   <updated>2010-12-02T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2010/12/02/vendor-css</id>
+   <content type="html">&lt;p&gt;Teaching is a lot of fun, and often I end up being the one that is learning. This past Tuesday, while teaching the basics of &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;, a student had asked me about adding a drop shadow to the text on the project we were building. I thought this was a great opportunity to let them see how powerful &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; is and display how they should be cautious about vendor specific tags.&lt;/p&gt;
+&lt;p&gt;I got schooled, right there in front of the students. While trying to use -moz-text-shadow and watching it fail repeatedly, we discovered that text-shadow is now fully supported in Firefox. Firefox has dropped support for the vendor specific version. I assume Webkit has also.&lt;/p&gt;
+&lt;p&gt;The hidden gem in all of this? Learning through exploration and dialogue. While I was trying to debug my &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; code, students hit the Internet in an attempt to help. It was actually a student that found out that Firefox dropped support for the tag. That type of learning cannot be duplicated. Those students will remember how we solved that problem. There is not a book available that can teach that.&lt;/p&gt;
+&lt;p&gt;Lesson? &lt;em&gt;Always&lt;/em&gt; have a non vendor specific fall back.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>BDD for a Newbie</title>
