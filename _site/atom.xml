@@ -4,7 +4,7 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2010-12-03T08:13:56-05:00</updated>
+ <updated>2010-12-03T08:19:27-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Getting Into Open Source</title>
-   <link href="http://scottradcliff.com/2010/12/03/getting-into-open-source.html"/>
+   <link href="http://scottradcliff.com/2010/12/03/getting-into-open-source/"/>
    <updated>2010-12-03T00:00:00-05:00</updated>
    <id>http://scottradcliff.com/2010/12/03/getting-into-open-source</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.viget.com/extend/getting-into-open-source/&quot;&gt;http://www.viget.com/extend/getting-into-open-source/&lt;/a&gt;&lt;/p&gt;
@@ -23,7 +23,7 @@
  
  <entry>
    <title>Vendor Specific CSS</title>
-   <link href="http://scottradcliff.com/2010/12/02/vendor-css.html"/>
+   <link href="http://scottradcliff.com/2010/12/02/vendor-css/"/>
    <updated>2010-12-02T00:00:00-05:00</updated>
    <id>http://scottradcliff.com/2010/12/02/vendor-css</id>
    <content type="html">&lt;p&gt;Teaching is a lot of fun, and often I end up being the one that is learning. This past Tuesday, while teaching the basics of &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;, a student had asked me about adding a drop shadow to the text on the project we were building. I thought this was a great opportunity to let them see how powerful &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; is and display how they should be cautious about vendor specific tags.&lt;/p&gt;
@@ -34,7 +34,7 @@
  
  <entry>
    <title>BDD for a Newbie</title>
-   <link href="http://scottradcliff.com/2010/11/30/bdd-newbie.html"/>
+   <link href="http://scottradcliff.com/2010/11/30/bdd-newbie/"/>
    <updated>2010-11-30T00:00:00-05:00</updated>
    <id>http://scottradcliff.com/2010/11/30/bdd-newbie</id>
    <content type="html">&lt;p&gt;I recently decided to put Cucumber and some &lt;span class=&quot;caps&quot;&gt;BDD&lt;/span&gt; to use on a real app. One problem. I drew a complete blank.  Not just &amp;#8220;how do I write this test&amp;#8221; kind of blank, but more like a &amp;#8220;Okay, I&amp;#8217;m completely lost. I thought I knew how this stuff worked&amp;#8221; kind of blank.&lt;/p&gt;
@@ -56,7 +56,7 @@
  
  <entry>
    <title>Simple is Hard</title>
-   <link href="http://scottradcliff.com/Code/2010/11/19/simple-is-hard.html"/>
+   <link href="http://scottradcliff.com/Code/2010/11/19/simple-is-hard/"/>
    <updated>2010-11-19T00:00:00-05:00</updated>
    <id>http://scottradcliff.com/Code/2010/11/19/simple-is-hard</id>
    <content type="html">&lt;p&gt;While sketching out and thinking through some code for a project, I am reminded again how hard it is make things simple. I have a natural tendency to over complicate code when I am developing. Call it over engineering, over thinking, thinking too much; whatever you tag it with, I seem to be plagued by it.&lt;/p&gt;
@@ -76,7 +76,7 @@ These little breaks bring me back to reality when I start to over-complicate the
  
  <entry>
    <title>Using Vim</title>
-   <link href="http://scottradcliff.com/Code/2010/11/05/using-vim.html"/>
+   <link href="http://scottradcliff.com/Code/2010/11/05/using-vim/"/>
    <updated>2010-11-05T00:00:00-04:00</updated>
    <id>http://scottradcliff.com/Code/2010/11/05/using-vim</id>
    <content type="html">&lt;p&gt;This was day two of using Vim as my editor. There are some features that are really growing on me, and some that I just don&amp;#8217;t like. I absolutely love the little keyboard shortcuts for things like copying an entire line &amp;#8220;yy&amp;#8221; or &amp;#8220;Y&amp;#8221;, jumping to a line :[line number] (so typing :25 takes me to line 25) , and &amp;#8220;p&amp;#8221; for pasting from the clipboard. Those are real time savers and I can really see how these can save me time.&lt;/p&gt;
@@ -86,7 +86,7 @@ These little breaks bring me back to reality when I start to over-complicate the
  
  <entry>
    <title>This is not Documentation</title>
-   <link href="http://scottradcliff.com/Code/2010/11/05/this-is-not-documentation.html"/>
+   <link href="http://scottradcliff.com/Code/2010/11/05/this-is-not-documentation/"/>
    <updated>2010-11-05T00:00:00-04:00</updated>
    <id>http://scottradcliff.com/Code/2010/11/05/this-is-not-documentation</id>
    <content type="html">&lt;blockquote&gt;
@@ -103,7 +103,7 @@ A full discussion of the available variables is not feasible there is a great de
  
  <entry>
    <title>I Suck at Not Repeating Code</title>
-   <link href="http://scottradcliff.com/Code/2010/10/04/i-suck-at-not-repeating-code.html"/>
+   <link href="http://scottradcliff.com/Code/2010/10/04/i-suck-at-not-repeating-code/"/>
    <updated>2010-10-04T00:00:00-04:00</updated>
    <id>http://scottradcliff.com/Code/2010/10/04/i-suck-at-not-repeating-code</id>
    <content type="html">&lt;p&gt;Every once in a while, a person has an eye-opening experience that causes them to rethink how they work, act, or react to certain situations. I have encountered such an experience. It would seem I am not as good at &lt;span class=&quot;caps&quot;&gt;DRY&lt;/span&gt; principles as I would like to be. The good news is, I don&amp;#8217;t think any of us are really where we would like to be when it comes to not repeating code. The bad news is, I thought I was a little better at it than I currently am. In defense of myself, the code in question is complex. There are multiple data sources all congregating in one place. Writing quick functions to perform tasks rather than really thinking about how to abstract the data is way too tempting, and I bit.&lt;/p&gt;
@@ -113,7 +113,7 @@ A full discussion of the available variables is not feasible there is a great de
  
  <entry>
    <title>Web Developer Professionalism</title>
-   <link href="http://scottradcliff.com/Code/2010/09/25/web-developer-professionalism.html"/>
+   <link href="http://scottradcliff.com/Code/2010/09/25/web-developer-professionalism/"/>
    <updated>2010-09-25T00:00:00-04:00</updated>
    <id>http://scottradcliff.com/Code/2010/09/25/web-developer-professionalism</id>
    <content type="html">&lt;p&gt;I worked as an Ironworker for 14 years. In ironwork, the older men and women that are part of the workforce are the resource you want to be close to. They posses an incredible amount of wisdom. One statement that I was told by one of these old-timers has stuck with me over the years.&lt;/p&gt;
@@ -125,7 +125,7 @@ A full discussion of the available variables is not feasible there is a great de
  
  <entry>
    <title>Those Crazy Designing Developers</title>
-   <link href="http://scottradcliff.com/Code/2010/09/06/those-crazy-designing-developers.html"/>
+   <link href="http://scottradcliff.com/Code/2010/09/06/those-crazy-designing-developers/"/>
    <updated>2010-09-06T00:00:00-04:00</updated>
    <id>http://scottradcliff.com/Code/2010/09/06/those-crazy-designing-developers</id>
    <content type="html">&lt;p&gt;There is a great thought provoking post over at the &lt;a href=&quot;http://thenerdary.net/&quot;&gt;Nerdary&lt;/a&gt; about the topic of developers and design. The post is a bit of a spin on the ol’ designers knowing code topic. If this were another boring post about designers and code, I would have passed it over, but the spin gathered my attention. Jenn Lukas has done a good job of putting it into context. It&amp;#8217;s definitely worth a read. Here&amp;#8217;s my two cents.&lt;/p&gt;
@@ -141,7 +141,7 @@ A full discussion of the available variables is not feasible there is a great de
  
  <entry>
    <title>Paid Holidays</title>
-   <link href="http://scottradcliff.com/Stuff/2010/09/04/paid-holidays.html"/>
+   <link href="http://scottradcliff.com/Stuff/2010/09/04/paid-holidays/"/>
    <updated>2010-09-04T00:00:00-04:00</updated>
    <id>http://scottradcliff.com/Stuff/2010/09/04/paid-holidays</id>
    <content type="html">&lt;p&gt;Monday will be my first paid holiday in 14 years. I am enjoying be a web developer for someone else. Especially when I get paid to &lt;em&gt;not develop&lt;/em&gt; anything.&lt;/p&gt;</content>
@@ -149,7 +149,7 @@ A full discussion of the available variables is not feasible there is a great de
  
  <entry>
    <title>Chrome Fixes Too Many Errors</title>
-   <link href="http://scottradcliff.com/Code/2010/08/28/chrome-fixes-too-many-errors.html"/>
+   <link href="http://scottradcliff.com/Code/2010/08/28/chrome-fixes-too-many-errors/"/>
    <updated>2010-08-28T00:00:00-04:00</updated>
    <id>http://scottradcliff.com/Code/2010/08/28/chrome-fixes-too-many-errors</id>
    <content type="html">&lt;p&gt;As a web developer, I need to see errors. Also, as a web developer, I need to be fast. These two requirements have caused me to jump from browser to browser like a madman. Firefox has the best debugging tools, but is too fat. Safari is super sleek, pretty fast, but I hate having to tab through tabs, or &lt;em&gt;gasp&lt;/em&gt; reach for my mouse. I thought Chrome was getting there. It’s super fast, has some decent debugging tools, and seems to be gaining ground.&lt;/p&gt;
@@ -160,7 +160,7 @@ A full discussion of the available variables is not feasible there is a great de
  
  <entry>
    <title>Programming is Way More Than Code</title>
-   <link href="http://scottradcliff.com/Code/2010/08/25/programming-is-way-more-than-code.html"/>
+   <link href="http://scottradcliff.com/Code/2010/08/25/programming-is-way-more-than-code/"/>
    <updated>2010-08-25T00:00:00-04:00</updated>
    <id>http://scottradcliff.com/Code/2010/08/25/programming-is-way-more-than-code</id>
    <content type="html">&lt;p&gt;I finally got around to grabbing a copy of The Mythical Man-Month. Sure, I’ve known about for the book a long time, but I didn’t actually start out in software development so it wasn’t very high on my reading list. Programming beyond the client-side has always intrigued me; it has only been recently that I have really started studying software development.&lt;/p&gt;
@@ -172,7 +172,7 @@ p. I have been reminded that 90% of programming is thinking. I am much more prod
  
  <entry>
    <title>Two Year Web Design Program</title>
-   <link href="http://scottradcliff.com/Stuff/2010/08/22/web-design-program.html"/>
+   <link href="http://scottradcliff.com/Stuff/2010/08/22/web-design-program/"/>
    <updated>2010-08-22T00:00:00-04:00</updated>
    <id>http://scottradcliff.com/Stuff/2010/08/22/web-design-program</id>
    <content type="html">&lt;p&gt;I have the distinct pleasure to have helped create a two year web design program in Toledo Ohio at &lt;a href=&quot;http://daviscollege.edu/&quot;&gt;Davis College&lt;/a&gt;. Davis College is a small, excellent two year fully accredited school that excels at giving students marketable skills that help them succeed beyond graduation.&lt;/p&gt;
@@ -255,7 +255,7 @@ p. I have been reminded that 90% of programming is thinking. I am much more prod
  
  <entry>
    <title>Blurred Development</title>
-   <link href="http://scottradcliff.com/Code/2010/07/08/blurred-development.html"/>
+   <link href="http://scottradcliff.com/Code/2010/07/08/blurred-development/"/>
    <updated>2010-07-08T00:00:00-04:00</updated>
    <id>http://scottradcliff.com/Code/2010/07/08/blurred-development</id>
    <content type="html">&lt;p&gt;I have long thought that the line between developer and designer has become blurred. The instances where someone will only design a site are minimal. Today, designers are expected to be comfortable with the front-end; &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;, and JavaScript, and developers should be comfortable with the elements of design; typography, proportion and scale, line, balance, etc.. If you are a developer and do not know any elements of design, Digital Web has a good primer from 2005 &lt;a href=&quot;http://www.digital-web.com/articles/elements_of_design/&quot;&gt;http://www.digital-web.com/articles/elements_of_design/&lt;/a&gt;&lt;/p&gt;
@@ -271,7 +271,7 @@ p. I have been reminded that 90% of programming is thinking. I am much more prod
  
  <entry>
    <title>Font-face Overuse</title>
-   <link href="http://scottradcliff.com/Design/2010/05/05/font-face-overuse.html"/>
+   <link href="http://scottradcliff.com/Design/2010/05/05/font-face-overuse/"/>
    <updated>2010-05-05T00:00:00-04:00</updated>
    <id>http://scottradcliff.com/Design/2010/05/05/font-face-overuse</id>
    <content type="html">&lt;p&gt;I read a great post by Brian Hoff over at &lt;a href=&quot;http://www.thedesigncubicle.com/&quot;&gt;The Design Cubicle&lt;/a&gt; this morning about space in typography. While the post is very informative and well worth reading, the most interesting part of the post for me was the reference to overuse of new and exciting technologies.&lt;/p&gt;
