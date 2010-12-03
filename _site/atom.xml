@@ -4,13 +4,22 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2010-12-02T14:11:26-05:00</updated>
+ <updated>2010-12-03T08:13:56-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Getting Into Open Source</title>
+   <link href="http://scottradcliff.com/2010/12/03/getting-into-open-source.html"/>
+   <updated>2010-12-03T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2010/12/03/getting-into-open-source</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.viget.com/extend/getting-into-open-source/&quot;&gt;http://www.viget.com/extend/getting-into-open-source/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am not as involved in open source as I would like to be. Viget Labs has written a nice piece on how to get started.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Vendor Specific CSS</title>

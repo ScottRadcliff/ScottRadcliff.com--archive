@@ -1,0 +1,9 @@
+---
+layout: post
+title: Getting Into Open Source
+---
+
+p. "http://www.viget.com/extend/getting-into-open-source/":http://www.viget.com/extend/getting-into-open-source/
+
+p. I am not as involved in open source as I would like to be. Viget Labs has written a nice piece on how to get started.
+
