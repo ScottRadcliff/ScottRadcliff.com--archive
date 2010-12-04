@@ -1,0 +1,11 @@
+---
+layout: post
+title: Head.js
+---
+
+p. "http://headjs.com/":http://headjs.com/
+
+bq. Head JS frees the page from script loading burden. The scripts loading is separated from the page rendering and they are _always_ loaded in paraller no matter how many of them and what the browser is. The difference on the user experience can be dramatic especially on the initial page load when the scripts are not yet in cache. It's your crucial first impression.
+
+p. I haven't played with it yet, but it looks promising.
+
