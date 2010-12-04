@@ -4,7 +4,7 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2010-12-04T14:27:54-05:00</updated>
+ <updated>2010-12-04T14:50:41-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
@@ -22,6 +22,16 @@
 &lt;p&gt;Head JS frees the page from script loading burden. The scripts loading is separated from the page rendering and they are &lt;em&gt;always&lt;/em&gt; loaded in paraller no matter how many of them and what the browser is. The difference on the user experience can be dramatic especially on the initial page load when the scripts are not yet in cache. It&amp;#8217;s your crucial first impression.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;I haven&amp;#8217;t played with it yet, but it looks promising.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Code Fearlessly</title>
+   <link href="http://scottradcliff.com/2010/12/04/code-fearlessly/"/>
+   <updated>2010-12-04T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2010/12/04/code-fearlessly</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://cam.ly/blog/2010/12/code-fearlessly/&quot;&gt;http://cam.ly/blog/2010/12/code-fearlessly/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I think I may have to write this somewhere where will always see it. Too often, I am writing code around several lines of code that have been commented out. Scared that if I remove the code, it will break something.&lt;/p&gt;
+&lt;p&gt;We should all &amp;#8220;Code Feaslessly&amp;#8221;&lt;/p&gt;</content>
  </entry>
  
  <entry>

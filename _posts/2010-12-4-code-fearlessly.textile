@@ -1,0 +1,10 @@
+---
+layout: 
+title: Code Fearlessly
+---
+
+p. "http://cam.ly/blog/2010/12/code-fearlessly/":http://cam.ly/blog/2010/12/code-fearlessly/
+
+p. I think I may have to write this somewhere where will always see it. Too often, I am writing code around several lines of code that have been commented out. Scared that if I remove the code, it will break something.
+
+p. We should all "Code Feaslessly"
