@@ -4,13 +4,22 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2010-12-04T14:50:41-05:00</updated>
+ <updated>2010-12-10T08:27:54-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Apple Loses Top iOS Dev</title>
+   <link href="http://scottradcliff.com/2010/12/10/apple-loses-top-ios-game-developer/"/>
+   <updated>2010-12-10T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2010/12/10/apple-loses-top-ios-game-developer</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://mashable.com/2010/12/09/graeme-devine-leaves-apple/&quot;&gt;http://mashable.com/2010/12/09/graeme-devine-leaves-apple/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Testament to the fact that money isn&amp;#8217;t everything. Do what you love.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Head.js</title>
