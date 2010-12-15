@@ -1,0 +1,8 @@
+---
+layout:   post
+title:    Strict Mode in ECMA 5 
+---
+
+p. "Strict Mode is Coming to Town":http://www.yuiblog.com/blog/2010/12/14/strict-mode-is-coming-to-town/
+
+p. Douglas Crockford blogs about using strict mode in ES5. I am not sure how I feel about this yet. I can definitely see some advantages, but didn't we try this with XHTML already? Definitely a topic to research.
