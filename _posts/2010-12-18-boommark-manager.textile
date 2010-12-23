@@ -1,0 +1,27 @@
+---
+layout:   post
+title:    Early Stages of a Bookmark App  
+published: false
+---
+
+!images/bookmark_manager_screenshot.png(Bookmark Manager App)!
+
+p. After the news of Yahoo! and the apparent demise of Delicious, I decided it may be time to play around with an idea that has been mulling around in my head for some time. I want my own bookmark manager. Delicious is great, but as you may know, it has been grossly neglected, and the reason I save web pages has changed since I first started using Delicious.
+
+# Reference. Quick access if ever need information on a topic. For example: I may find a new gem that I don't need now, but very well could need in the future and I want a way to find that information fast.
+
+# Quick access. I have a lot of pages I need to visit for work, it would be nice to have these available anywhere on any machine, including my mobiles; phone and iPad.
+
+# School. For the classes I teach I often come across links that I think may help the students, but I need a way to share them.
+
+p. All of those _can_ be done in Delicious, but it's exactly intuitive. I see more as context. Maybe grouping is a better word? Whatever the word is, I think it can be done better.
+
+h2. Developers Make Stuff
+
+p. Instapaper is awesome. A great service that I use everyday, but it's not really built to save items for longer periods of time. So it's time for me to start prototyping the app.
+
+h2. HTML Prototyping
+
+p. This my first full fledged venture into 100% HTML prototyping. I'm completely sold. Not only does it help me to look at the application in it's native setting, it helps me to structure the site I go. While some prefer to add styles quickly by using inline styles, I quickly became frustrated with repeating styles and coping and pasting code.
+
+p. The first thing I did for presentation was cd into my stylesheets directory and clone my Blueprint fork. I then added my main.css file and imported the screen.css from Blueprint and added my styles to the main.css files. Why do the time to add my styles to the main.css? Because it is already part of my project, and as part of my project, my styles are already written. I find that this step makes the development phase faster.

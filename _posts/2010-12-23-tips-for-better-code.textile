@@ -1,0 +1,9 @@
+---
+layout:   post
+title:    11 Tips for Better Code
+---
+
+p. "http://progfu.com/post/384161195/11-tips-for-better-code":http://progfu.com/post/384161195/11-tips-for-better-code
+
+p. Great tips on code craftsmanship.
+
