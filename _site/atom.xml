@@ -4,13 +4,40 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2010-12-23T08:32:44-05:00</updated>
+ <updated>2010-12-30T08:20:49-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Developer Goals for 2011</title>
+   <link href="http://scottradcliff.com/2010/12/29/developer-goals-for-2011/"/>
+   <updated>2010-12-29T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2010/12/29/developer-goals-for-2011</id>
+   <content type="html">&lt;p&gt;As the end of the year approaches, like most people, I start to reflect on the year that is set to expire. This year was an interesting one. I have the first full year of teaching under my belt, I starting working for a company as a developer, and I have evolved as a developer more than in any other year.&lt;/p&gt;
+&lt;h2&gt;Where Am I now?&lt;/h2&gt;
+&lt;p&gt;As I write this, I happen to be on a bit of a break. Usually, I am working either 7-4 or 8-5 and I teach from 5:40 until 9:30 &amp;#8211; 10ish twice a week. Besides that, I am finishing my degree at &lt;a href=&quot;http://www.bgsu.edu/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;BGSU&lt;/span&gt;&lt;/a&gt;. Needless to say, I have a very full plate, but it’s all fun. Okay, the finishing the degree part kind of sucks, but that is more likely due to the content of the courses than the actual work.&lt;/p&gt;
+&lt;p&gt;I have really grown in all aspects of work. Well, it’s not really work most of the time; I really do enjoy it. Teaching is a great way for me to give back to the community. I love helping prepare web designers with tools and skills that they will actually use. I think I have improved in my teaching style, but ultimately the students would have to answer that. I know I have benefitted from my education at BG to improve the environment that I create for learning.&lt;/p&gt;
+&lt;h3&gt;Developer Status&lt;/h3&gt;
+&lt;p&gt;As for being a developer, I have learned a lot from working with other developers. I still find it amazing how much I can learn from just being around other developers. It’s something every developer should do. Not only through work, but through play also. Hanging out with like-minded developers is incredibly inspiring.&lt;/p&gt;
+&lt;p&gt;I still struggle with developer speed. I hate doing things that are “good enough”. Because of that, I spend a lot of time tweaking and refactoring when I probably should learn to just close the file and move on. This is probably the one area I need to work on. More on that later.&lt;/p&gt;
+&lt;h3&gt;Frameworks&lt;/h3&gt;
+&lt;p&gt;Frameworks were a big part of my 2010. Up until this year, I started every project from scratch; that included &lt;span class=&quot;caps&quot;&gt;PHP&lt;/span&gt;, JavaScript, and &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;. &lt;span class=&quot;caps&quot;&gt;PHP&lt;/span&gt; frameworks came first; mainly &lt;a href=&quot;http://codeigniter.com/&quot;&gt;CodeIgniter&lt;/a&gt;, then came the JavaScript frameworks, finally settling on &lt;a href=&quot;http://jquery.com/&quot;&gt;jQuery&lt;/a&gt;. Recently, I have been using &lt;a href=&quot;http://www.blueprintcss.org/&quot;&gt;BlueprintCSS&lt;/a&gt; for common &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; layouts. I started to feel that it was insane to replicate the same layouts over and over. Blueprint fits my workflow well and hopefully makes me a little faster.&lt;/p&gt;
+&lt;p&gt;This year also brought on &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Rails&lt;/a&gt;, and it blew me away. I slowly started moving away from &lt;span class=&quot;caps&quot;&gt;PHP&lt;/span&gt;. My day job still requires &lt;span class=&quot;caps&quot;&gt;PHP&lt;/span&gt;, but for anything I start outside of work; Rails it is. Rails has really helped me grow as a developer. I started looking at my code with a test first mentality. The conventions in Rails almost force me to do things in a certain way. I have become accustomed to the &amp;#8220;Rails Way&amp;#8221;.&lt;/p&gt;
+&lt;h2&gt;Where Would I Like to be?&lt;/h2&gt;
+&lt;p&gt;There are a few goals that I have for the coming year. Naturally, I want improve in all aspects of developing and teaching. As I mentioned earlier, speed is my largest defect.  What I have yet to figure out is whether I am taking too long because I am adding quality code, or if the time if takes me is necessary to produce quality code. This will be a large turning point for me this year. I plan on concentrating on speed a lot, I still believe that web development is a creative craft that requires knowledge, experience, creativity, and pride. I try to treat every line of code as if it were my personal project. I definitely would not cut corners on something I am building for myself. I do not want to sacrifice that quality for speed, but fear that I have to make a compromise.&lt;/p&gt;
+&lt;p&gt;I also have a lot of half finished side projects laying around. I am going to make this the year I just release projects. They could be anything. I am no longer concerned with if what I am building has been done or not. Often, what I am building does exist, but does not fit what I want it to do enough.&lt;/p&gt;
+&lt;p&gt;Developers are encouraged to learn one new language a year. I do agree with this, it&amp;#8217;s a great way to stay on top of your craft. I am approaching 2011 a little differently. I am really concentrating on &lt;a href=&quot;http://www.ruby-lang.org/en/&quot;&gt;Ruby&lt;/a&gt;. I mean really mastering it. All of the ins and outs of the language.&lt;/p&gt;
+&lt;p&gt;Sadly, my JavaScript skills have slid in the last few years. I&amp;#8217;m not saying I don&amp;#8217;t know JavaScript well, but the JavaScript development of the past few years has &lt;em&gt;really&lt;/em&gt; moved the language forward and I feel that I am not as good as I could or should be.&lt;/p&gt;
+&lt;h3&gt;How Do I Get There?&lt;/h3&gt;
+&lt;p&gt;In order to be where I would like to be by the end of 2011, there are a few things that I must do. The first thing is to make time for side projects and personal and professional development. It’s a lot easier said than done while working a full-time, part-time job, and still taking some online classes. I have a few ideas; start work a half an hour early, have a working lunch, work on the projects after work, or just simply limiting all of these social networks I am involved with. If I am going to release projects, code, and such; I need to work on those projects and shut Twitter down.&lt;/p&gt;
+&lt;p&gt;Releasing projects that are not perfect is a pain point for anyone in a creative profession. This is item number two. I’m still scared this is going to burn me, but I am going to do it anyway. Burns heal, right?&lt;/p&gt;
+&lt;p&gt;I think the best way to advance with a language is to do something meaningful. Hello World and a blog (&lt;em&gt;the new hello world&lt;/em&gt;) only go so far. To really use a technology or language, you need to have useful case for it. Maybe it gets released, maybe it doesn’t. One thing for sure, you learn a lot about how to really use the language. I love the Code Kata ideas, so I plan on rolling my own; creating some katas that are more relevant to me as far as something I might actually use. With any luck, I might stumble onto something. Worst case scenario, I accomplish my goal of really digging into Ruby and JavaScript.&lt;/p&gt;
+&lt;p&gt;Here is to a great 2011!&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>11 Tips for Better Code</title>
