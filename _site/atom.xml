@@ -4,13 +4,28 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2010-12-30T08:20:49-05:00</updated>
+ <updated>2011-01-05T08:47:56-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Automating Tasks</title>
+   <link href="http://scottradcliff.com/2011/01/05/automating-tasks/"/>
+   <updated>2011-01-05T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2011/01/05/automating-tasks</id>
+   <content type="html">&lt;p&gt;I am experimenting with automating more tasks. I’m starting with my login for work. Every morning when I fire up my machine for work, I start a few programs. It’s not really a big deal, but I decided to venture into shell scripting to make this a command. My shell scripting skills currently suck.&lt;/p&gt;
+&lt;p&gt;The script is held in my code/helpers directory, so it needs to set the working directory to Applications so I can launch the apps I need. Once in the directory, I just launch the applications that I launch every morning.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;# Open apps for work&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;cd ~/../../Applications;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;open &quot;Google Chrome.app&quot;&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;open Skype.app&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;open Mail.app&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;open TextMate.app&lt;/code&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Developer Goals for 2011</title>

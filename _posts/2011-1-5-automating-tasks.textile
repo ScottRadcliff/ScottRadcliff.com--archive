@@ -1,0 +1,17 @@
+---
+layout:   post
+title:    Automating Tasks
+---
+
+p. I am experimenting with automating more tasks. I’m starting with my login for work. Every morning when I fire up my machine for work, I start a few programs. It’s not really a big deal, but I decided to venture into shell scripting to make this a command. My shell scripting skills currently suck.
+
+p. The script is held in my code/helpers directory, so it needs to set the working directory to Applications so I can launch the apps I need. Once in the directory, I just launch the applications that I launch every morning.
+
+@# Open apps for work@
+@cd ~/../../Applications;@
+
+@open "Google Chrome.app"@
+@open Skype.app@
+@open Mail.app@
+@open TextMate.app@
+
