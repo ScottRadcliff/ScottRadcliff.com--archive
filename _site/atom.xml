@@ -4,13 +4,36 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2011-01-05T08:47:56-05:00</updated>
+ <updated>2011-01-18T08:45:53-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Learning Web Design</title>
+   <link href="http://scottradcliff.com/2011/01/18/learning-web-design/"/>
+   <updated>2011-01-18T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2011/01/18/learning-web-design</id>
+   <content type="html">&lt;p&gt;As long as I can remember w3schools have been around and honestly I had no idea that it was not part of the official W3C. Recently a movement has been started to bring awareness that the information at w3schools is inaccurate and that the wrong information is worse than no information. While I do agree that information should be accurate, I wonder where new designers and developers to web design will get their information. Surely we can’t expect them to go through the actual documentation. Even seasoned pros find that painful to sift through.&lt;/p&gt;
+&lt;p&gt;W3schools helped me quite a bit starting out. I don’t think the name was as much of a factor as the content. Even the fact that some of the content was inaccurate didn’t hurt me when I was starting out. It helped me get started quickly; as I learned more I expanded my resources.&lt;/p&gt;
+&lt;h2&gt;Where should a person go to learn the syntax for making web sites?&lt;/h2&gt;
+&lt;p&gt;I have spent some time searching for a suitable replacement. There isn’t one. Okay, let me rephrase that; there isn’t a &lt;strong&gt;&lt;em&gt;good&lt;/em&gt;&lt;/strong&gt; one. There are plenty of resources available, but they are fragmented at best. If someone that has experience is looking for documentation and knows what they are looking for, these resources work. But what about the person that doesn’t know what they are looking for? That person only knows that they want to do it the &lt;em&gt;right way&lt;/em&gt;; the web standards way. Where do they go?&lt;/p&gt;
+&lt;h2&gt;It’s time to build a better system&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://w3fools.com/&quot;&gt;http://w3fools.com/&lt;/a&gt; makes mention of the community building a better system, but then shies away from the idea as if it is not possible. I believe it’s wrong to shy away from it. If we as a community are going to call an organization out because they have inaccurate information, we &lt;strong&gt;have&lt;/strong&gt; to build something better.&lt;/p&gt;
+&lt;h2&gt;Initial ideas&lt;/h2&gt;
+&lt;p&gt;Here is what I think the new system has to have&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;A way to see immediate results with the code you are looking for. This is the one thing that I loved about w3schools; I could get immediate feedback with what happens when I do [x]. Those little text editors are a great learning tool.&lt;/li&gt;
+	&lt;li&gt;Up to date documents that are completely searchable. I think &lt;a href=&quot;http://apidock.com/&quot;&gt;http://apidock.com/&lt;/a&gt; does this well. As does &lt;a href=&quot;http://railsapi.com/doc/rails-v3.0.3/&quot;&gt;http://railsapi.com/doc/rails-v3.0.3/&lt;/a&gt;. Something like that would be great, but with full text search.&lt;/li&gt;
+	&lt;li&gt;Newbie friendly.&lt;/li&gt;
+	&lt;li&gt;Editable. Similar to a wiki. I think this helps avoid the outdated problem, but raises another one in sources. Sources would have to be displayed for it to be credible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That would be a good start. I certainly couldn’t do it myself, but would be willing to jump in and help. I just can’t see complaining about something without action.&lt;/p&gt;
+&lt;p&gt;If someone has already started something, I would love to hear about it and participate.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Automating Tasks</title>
