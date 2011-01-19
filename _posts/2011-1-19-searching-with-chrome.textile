@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Whoa, Search any site with Chrome
+title:    Whoa, search any site with Chrome
 ---
 
 p. This may be something new, but I stumbled onto something today. Apparently you can search some websites in Chrome directly from the address bar.
