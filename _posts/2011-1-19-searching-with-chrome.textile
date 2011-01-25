@@ -5,8 +5,8 @@ title:    Whoa, search any site with Chrome
 
 p. This may be something new, but I stumbled onto something today. Apparently you can search some websites in Chrome directly from the address bar.
 
-!images/search_chrome.png!
+!/images/search_chrome.png!
 
 p. When you add a space after the URL, you can then search the site for what you need. Completely awesome for finding Gems on GitHub.
 
-!images/search_github.png!
+!/images/search_github.png!

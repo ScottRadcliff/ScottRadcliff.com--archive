@@ -4,7 +4,7 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2011-01-19T17:09:13-05:00</updated>
+ <updated>2011-01-24T23:19:05-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
@@ -18,9 +18,9 @@
    <updated>2011-01-19T00:00:00-05:00</updated>
    <id>http://scottradcliff.com/2011/01/19/searching-with-chrome</id>
    <content type="html">&lt;p&gt;This may be something new, but I stumbled onto something today. Apparently you can search some websites in Chrome directly from the address bar.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;images/search_chrome.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/search_chrome.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;When you add a space after the &lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt;, you can then search the site for what you need. Completely awesome for finding Gems on GitHub.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;images/search_github.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img src=&quot;/images/search_github.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
