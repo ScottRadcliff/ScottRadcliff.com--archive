@@ -4,13 +4,28 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2011-01-31T22:46:08-05:00</updated>
+ <updated>2011-02-01T10:27:50-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Promote Dry JavaScript Practices</title>
+   <link href="http://scottradcliff.com/2011/02/01/promote-dry-javascript/"/>
+   <updated>2011-02-01T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2011/02/01/promote-dry-javascript</id>
+   <content type="html">&lt;p&gt;I’ve griped about jQuery plenty. Not the framework itself, it’s an awesome tool to have when doing front end work, but the code that many produce with jQuery. I like to call it &lt;em&gt;anonymous functionitis&lt;/em&gt;. New developers see anonymous functions in jQuery code, assume &lt;em&gt;everything&lt;/em&gt; should be done that way, and create code that doesn’t promote reuse. The code is full of functions that serve one purpose and need to be recreated if they are needed elsewhere. Another thing that bugs me is throwing everything in &lt;span class=&quot;caps&quot;&gt;DOM&lt;/span&gt; ready. I mark this up as inexperience.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://blog.rebeccamurphey.com/&quot;&gt;Rebecca Murphy&lt;/a&gt; has done a nice job of summing this up in her JS Conf talk &lt;a href=&quot;http://jsconf.eu/2010/speaker/the_jquery_divide_by_rebecca_m.html&quot;&gt;The jQuery Divide&lt;/a&gt;. I think she is right; we need to educate those that write poor jQuery. But how?&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Teach the need to understand what jQuery is doing. New developers should dig into the code and learn how jQuery does what it does.&lt;/li&gt;
+	&lt;li&gt;Promote writing JavaScript without jQuery.&lt;/li&gt;
+	&lt;li&gt;Take a part of JavaScript (event handlers, animations, Ajax) and really explain how it works.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If those of us that understand the language, help teach those that do not, maybe we can  move the developer community forward.  With event driven JavaScript gaining speed, there hasn’t been a better time to promote the core language.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Project Portfolio</title>

@@ -1,0 +1,16 @@
+---
+layout:   post
+title:    Promote Dry JavaScript Practices
+---
+
+
+p. I’ve griped about jQuery plenty. Not the framework itself, it’s an awesome tool to have when doing front end work, but the code that many produce with jQuery. I like to call it _anonymous functionitis_. New developers see anonymous functions in jQuery code, assume _everything_ should be done that way, and create code that doesn’t promote reuse. The code is full of functions that serve one purpose and need to be recreated if they are needed elsewhere. Another thing that bugs me is throwing everything in DOM ready. I mark this up as inexperience.
+
+p. "Rebecca Murphy":http://blog.rebeccamurphey.com/ has done a nice job of summing this up in her JS Conf talk "The jQuery Divide":http://jsconf.eu/2010/speaker/the_jquery_divide_by_rebecca_m.html. I think she is right; we need to educate those that write poor jQuery. But how?
+
+* Teach the need to understand what jQuery is doing. New developers should dig into the code and learn how jQuery does what it does.
+* Promote writing JavaScript without jQuery.
+* Take a part of JavaScript (event handlers, animations, Ajax) and really explain how it works.
+
+p. If those of us that understand the language, help teach those that do not, maybe we can  move the developer community forward.  With event driven JavaScript gaining speed, there hasn’t been a better time to promote the core language.
+
