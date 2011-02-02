@@ -51,3 +51,6 @@ h1.blog-heading a {color: #036; text-decoration: none;}
 /* Post Page */
 h1.blog-heading {color: #036;}
 /* End Post Page */
+
+/* Tweet Button*/
+div#tweet-button {margin-bottom: 16px;} 
