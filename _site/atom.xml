@@ -4,13 +4,23 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2011-02-01T10:27:50-05:00</updated>
+ <updated>2011-02-02T13:22:13-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Moving the Mobile Web Foreward</title>
+   <link href="http://scottradcliff.com/2011/02/02/moving-the-mobile-web-forward/"/>
+   <updated>2011-02-02T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2011/02/02/moving-the-mobile-web-forward</id>
+   <content type="html">&lt;p&gt;I have this love/hate relationship with native mobile apps. They definitely have their place, but are often overused; I&amp;#8217;m a huge  proponent of the mobile web. I think as developers, we should build apps not for a platform, but for a purpose. More often than not, this involves more than one platform. Games are exempt in my opinion. Native code is a perfect fit for games.&lt;/p&gt;
+&lt;p&gt;37signals just released a &lt;a href=&quot;http://basecamphq.com/mobile&quot;&gt;mobile version of Basecamp&lt;/a&gt;. It&amp;#8217;s a great app, and done purely in web technologies. This is a giant leap forward for a few reasons. One: some devs that are on the fence about mobile might look at this app and realize that it&amp;#8217;s okay to go web versus native. Two: the crew at 37signals are creating quite a stir about their Cinco framework, which appears to be a rapid application framework for web apps, and will be open sourced&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m anxiously waiting for the release of Cinco. I have been looking for a mobile web solution and was entertaining the idea of creating my own micro framework. Maybe something based on Sinatra, but I would rather contribute to something that has the talent that 37signals brings behind it.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Promote Dry JavaScript Practices</title>
