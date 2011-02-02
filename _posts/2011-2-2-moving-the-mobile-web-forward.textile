@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Moving the Mobile Web Foreward
+title:    Moving the Mobile Web Forward
 ---
 
 p. I have this love/hate relationship with native mobile apps. They definitely have their place, but are often overused; I'm a huge  proponent of the mobile web. I think as developers, we should build apps not for a platform, but for a purpose. More often than not, this involves more than one platform. Games are exempt in my opinion. Native code is a perfect fit for games.
