@@ -1,0 +1,12 @@
+---
+layout:   post
+title:    Diving into JavaScript
+published: false
+---
+
+p. I had few goals at the beginning of the year. _Really_ learn a few of the langauges that I wanted to get better at. One was Ruby and the other was JavaScript. Ruby is coming along rather well; more on that later. As for JavaScript, I decided to read "JavaScript: The Good Parts":http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1297102241&sr=8-1. It's quite humbling how far I am behind the current trend in JavaScript. Mainly prototypical inheritance.
+
+p. For some reason, programming with prototypes reminds me of Ruby. There are similarities where anonymous functions as concerned. I think blocks. I related pretty easily. This leaves me wondering if that's why some rubyists are excellent JavaScript programmers.
+
+
+

@@ -4,13 +4,22 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2011-02-02T17:16:02-05:00</updated>
+ <updated>2011-02-10T10:40:27-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Mental Rest</title>
+   <link href="http://scottradcliff.com/2011/02/10/mental-rest/"/>
+   <updated>2011-02-10T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2011/02/10/mental-rest</id>
+   <content type="html">&lt;p&gt;I&amp;#8217;ve been thinking about mental rest a lot. I know I could benefit from letting my brain relax. My brain is running full speed all day. There&amp;#8217;s always a monitor running where I&amp;#8217;m debugging something, reading something, researching something, so on and so on. When the work day is over, I grab my iPad and do the same thing. It&amp;#8217;s hard not to be engaged in something with my schedule. Day job, part-time night job, and finishing up a degree at a University make it difficult to do &amp;#8220;nothing&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;For the next week, I am going to set a side a block of time each day to relax. No studying, no programming/debugging, no research. Just relax. Probably just listen to some music. I expect to feel completely refreshed. I also think that all the information that I have been cramming into my brain will finally have a chance to sink in. If all goes well, I will post my thoughts.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Moving the Mobile Web Forward</title>
