@@ -4,7 +4,7 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2011-02-10T10:40:27-05:00</updated>
+ <updated>2011-02-15T11:31:53-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
@@ -13,12 +13,25 @@
 
  
  <entry>
+   <title>A Win for Technology</title>
+   <link href="http://scottradcliff.com/2011/02/15/a-win-for-technology/"/>
+   <updated>2011-02-15T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2011/02/15/a-win-for-technology</id>
+   <content type="html">&lt;p&gt;I sat with my family and watched Watson, &lt;em&gt;the computer &lt;span class=&quot;caps&quot;&gt;IBM&lt;/span&gt; created&lt;/em&gt;, compete on Jeopardy and we were in awe of the awesome. This really was historic, not to mention a genius move by &lt;span class=&quot;caps&quot;&gt;IBM&lt;/span&gt;. Why was it genius by &lt;span class=&quot;caps&quot;&gt;IBM&lt;/span&gt;?&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;The country saw &lt;span class=&quot;caps&quot;&gt;IBM&lt;/span&gt; exercise their motto &amp;#8220;Build a smarter planet&amp;#8221;. Even though through the first round Watson stumbled a bit, it was impressive how this machine could parse and answer human language.&lt;/li&gt;
+	&lt;li&gt;Non-technical people had the opportunity to see the people that were behind the machine. This is something that normal people often do not see. Most people just expect computers to work, never giving a thought to who built it, or how much time went into it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Those two points can stand on their own, but I think the most impressive thing about Watson is what it leads to after Jeopardy. Possibilities in various fields were mentioned, including the medical field. That is the most impressive part. What technology will be spawned from a game?&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>Mental Rest</title>
    <link href="http://scottradcliff.com/2011/02/10/mental-rest/"/>
    <updated>2011-02-10T00:00:00-05:00</updated>
    <id>http://scottradcliff.com/2011/02/10/mental-rest</id>
    <content type="html">&lt;p&gt;I&amp;#8217;ve been thinking about mental rest a lot. I know I could benefit from letting my brain relax. My brain is running full speed all day. There&amp;#8217;s always a monitor running where I&amp;#8217;m debugging something, reading something, researching something, so on and so on. When the work day is over, I grab my iPad and do the same thing. It&amp;#8217;s hard not to be engaged in something with my schedule. Day job, part-time night job, and finishing up a degree at a University make it difficult to do &amp;#8220;nothing&amp;#8221;.&lt;/p&gt;
-&lt;p&gt;For the next week, I am going to set a side a block of time each day to relax. No studying, no programming/debugging, no research. Just relax. Probably just listen to some music. I expect to feel completely refreshed. I also think that all the information that I have been cramming into my brain will finally have a chance to sink in. If all goes well, I will post my thoughts.&lt;/p&gt;</content>
+&lt;p&gt;For the next week, I am going to set a side a block of time each day to relax. No studying, no programming/debugging, no research; just relax. Probably just listen to some music. I expect to feel completely refreshed. I also think that all the information that I have been cramming into my brain will finally have a chance to sink in. If all goes well, I will post my thoughts.&lt;/p&gt;</content>
  </entry>
  
  <entry>

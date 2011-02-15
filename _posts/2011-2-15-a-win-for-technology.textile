@@ -1,0 +1,12 @@
+---
+layout:   post
+title:    A Win for Technology
+---
+
+p. I sat with my family and watched Watson, _the computer IBM created_, compete on Jeopardy and we were in awe of the awesome. This really was historic, not to mention a genius move by IBM. Why was it genius by IBM? 
+
+# The country saw IBM exercise their motto "Build a smarter planet". Even though through the first round Watson stumbled a bit, it was impressive how this machine could parse and answer human language.
+# Non-technical people had the opportunity to see the people that were behind the machine. This is something that normal people often do not see. Most people just expect computers to work, never giving a thought to who built it, or how much time went into it.
+
+p. Those two points can stand on their own, but I think the most impressive thing about Watson is what it leads to after Jeopardy. Possibilities in various fields were mentioned, including the medical field. That is the most impressive part. What technology will be spawned from a game?
+
