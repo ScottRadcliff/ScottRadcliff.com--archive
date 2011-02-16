@@ -4,10 +4,6 @@ title:    Mental Rest
 published: false
 ---
 
-p. This starts my last week working from home. Next week I start working in an actual office. While that is a bit of a change for me, I am looking forward to working around other people. I love working from a home office, but I have always struggled with the solitude. I'm anxious to see how working around others affects my work flow and productivity.
+p. There is a reason I do not develop iOS application. Every time Apple decides they need their cut from a developers hard work, I am reminded why. Ironically, every time Apple decides to update their terms to make sure they have the upper hand, is about the time I am thinking I should start developing native mobile apps. I wake up quickly. I agree that Apple is entitled to their cut, but they are destroying what used to be a great platform for developers. A great developer friendly platform is what catapulted the iOS line of devices to begin with. There is no way the iPhone is where it is today without developers creating awesome apps for it. I'm not saying it wouldn't have been successful; just not _this_ successful.
 
-p. I will be working for an outstanding young company doing Ruby development; mainly Rails. Another new paradigm for me will be full TDD. I think this will be the biggest learning curve. Not learning how to write and run tests, but how to approach TDD in a new setting. I haven't had the privilege of working where testing was a priority, although I have wanted to work in an agile setting for a long time. I feel this is the next logical step for me. 
-
-p. The other point that I think may take some time are gems. I know I have a list of gems that I like to use and I assume other devs are the same way. I see a breaking-in period where I get familiar with their set of gems that they prefer. 
-
-p. Hopefully, I will be able to bring as much to the table as I able to take away. It should be fun!
+p. I see Apple as having a "too big to fail" attitude. That is a razor's edge. Just ask Microsoft and they will tell you that no company is too big to fail.

@@ -4,13 +4,23 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2011-02-15T11:31:53-05:00</updated>
+ <updated>2011-02-16T17:01:16-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Too Big to Fail</title>
+   <link href="http://scottradcliff.com/2011/02/16/too-big-to-fail/"/>
+   <updated>2011-02-16T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2011/02/16/too-big-to-fail</id>
+   <content type="html">&lt;p&gt;There is a reason I do not develop iOS applications. Every time Apple decides they need their cut from a developers hard work, I am reminded why. Ironically, every time Apple decides to update their terms to make sure they have the upper hand, is about the time I start thinking I should start developing native mobile apps. I wake up quickly. I agree that Apple is entitled to their cut, but they are destroying what used to be a great platform for developers. A great developer friendly platform is what catapulted the iOS line of devices to begin with. There is no way the iPhone is where it is today without developers creating awesome apps for it. I&amp;#8217;m not saying it wouldn&amp;#8217;t have been successful; just not &lt;em&gt;this&lt;/em&gt; successful.&lt;/p&gt;
+&lt;p&gt;I see Apple as having a &amp;#8220;too big to fail&amp;#8221; attitude. That is a razor&amp;#8217;s edge. Just ask Microsoft and they will tell you that no company is too big to fail. Back when I switched to Apple products, it was because they offered what I wanted. I wanted to do Rails development, and I liked what I saw in terms of tools. TextMate, for example. Sure, I could do Rails development on a Windows machine, but it sucks. Trust me. I set up a Rails environment on a Windows box. Torture! So I jumped ship.&lt;/p&gt;
+&lt;p&gt;I fear a similar situation with what Apple is doing now. It won&amp;#8217;t be anytime soon, but if they keep screwing around with their iOS developers, they will leave. They will take the path of least resistance, just like I did when I came to Apple.  And when Android has that one exclusive app, &lt;em&gt;think Angry Birds when it was iOS only&lt;/em&gt;, the ball will start rolling. It all starts with one awesome app that you can&amp;#8217;t get anywhere else.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>A Win for Technology</title>
