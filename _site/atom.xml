@@ -4,13 +4,34 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2011-02-16T17:01:16-05:00</updated>
+ <updated>2011-02-17T08:55:19-05:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>All About Comments</title>
+   <link href="http://scottradcliff.com/2011/02/17/all-about-comments/"/>
+   <updated>2011-02-17T00:00:00-05:00</updated>
+   <id>http://scottradcliff.com/2011/02/17/all-about-comments</id>
+   <content type="html">&lt;p&gt;Commenting code when I know I will not be returning to it has got me thinking. Firstly, as I finish out this week at my current job and know that someone else will be editing this code in the future; actually, they will probably be finishing the code. I have been writing some really detailed comments. Some of them may be too detailed, but that&amp;#8217;s okay. I would rather the next developer look at a comment and think that it was unnecessary, rather than wondering what that code does and spending time decyphering each line to get a grasp on the purpose. I haven&amp;#8217;t went as far as&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$i=0 // Set variable i to 0&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;That would be really stupid. But I have written:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;// Create an array to store values for different education classes
+$classes = array();&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;I know classes is pretty self explanatory, and I could have named the variable education_classes, but just one comment that takes up no more than one line makes it perfectly clear that this does. Here is another example:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;// filter through options extracting the value
+// and applying it to the classes array
+foreach($query-&amp;gt;result() as $item) {
+  $classes[] = $item;
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Again, it&amp;#8217;s pretty self-explanatory, but when someone hits this code for a quick change or is looking for a possible bug it should help them scan the file looking for the section they need. Of course I have PHP_doc comments for methods and classes. As I look over the code I have written this week I question my comment writing on projects that I know I will return to. I usually do not comment like this and it has burned me in terms of time. Reading each line of code to determine where the culprit of a bug may be is much more time consuming than just scanning the comments.&lt;/p&gt;
+&lt;p&gt;I say apply too many comments rather than too few. If the other developers that you work with do not like them, they can choose to not read them. My guess is even if the comments seem excessive, they will be useful in that one instance that may save you at 5:00 on a Friday.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Worth noting that this style of commenting has to be kept up to date. Read your comments often, and edit when necessary.&lt;/em&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Too Big to Fail</title>
