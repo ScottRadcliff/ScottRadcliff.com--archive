@@ -31,6 +31,22 @@
   
 <section>
   <header>
+    <h1 class="blog-heading"><a href="/2011/01/05/automating-tasks/" class="blog-heading">Automating Tasks</a></h1>
+  </header>
+  <p class="post-date">Posted on: Wednesday, January 05, 2011</p>
+    <p>I am experimenting with automating more tasks. I’m starting with my login for work. Every morning when I fire up my machine for work, I start a few programs. It’s not really a big deal, but I decided to venture into shell scripting to make this a command. My shell scripting skills currently suck.</p>
+<p>The script is held in my code/helpers directory, so it needs to set the working directory to Applications so I can launch the apps I need. Once in the directory, I just launch the applications that I launch every morning.</p>
+<p><code># Open apps for work</code><br />
+<code>cd ~/../../Applications;</code></p>
+<p><code>open "Google Chrome.app"</code><br />
+<code>open Skype.app</code><br />
+<code>open Mail.app</code><br />
+<code>open TextMate.app</code></p>
+</section>
+
+
+<section>
+  <header>
     <h1 class="blog-heading"><a href="/2010/12/29/developer-goals-for-2011/" class="blog-heading">Developer Goals for 2011</a></h1>
   </header>
   <p class="post-date">Posted on: Wednesday, December 29, 2010</p>
@@ -153,27 +169,6 @@
 <p><code>I should see "My Super Cool App"</code></p>
 <p>Now run that step. Make it pass and add another. Do that until I reach the end of that scenario.</p>
 <p>This may seem silly to those that are fluent in <span class="caps">BDD</span>, but it really helped me wrap my head around the process of writing passing tests.</p>
-</section>
-
-
-<section>
-  <header>
-    <h1 class="blog-heading"><a href="/Code/2010/11/19/simple-is-hard/" class="blog-heading">Simple is Hard</a></h1>
-  </header>
-  <p class="post-date">Posted on: Friday, November 19, 2010</p>
-    <p>While sketching out and thinking through some code for a project, I am reminded again how hard it is make things simple. I have a natural tendency to over complicate code when I am developing. Call it over engineering, over thinking, thinking too much; whatever you tag it with, I seem to be plagued by it.</p>
-<p>Here are a few things I try to do to make development simple.</p>
-<p><strong>Break everything down to the smallest possible task</strong><br />
-Take the largest of tasks and break them down to very small manageable tasks, and concentrate on those smaller tasks.</p>
-<p><strong>Pseudo-code everything</strong><br />
-I prefer to pseudo-code just about everything. This helps me in a few ways.</p>
-<ul>
-	<li>It helps me catch logical errors before they end up in code and become harder to find.  </li>
-	<li>It allows me to think about the methods that I may need to complete the task. I am usually working with some sort of <span class="caps">API</span> so this often helps me dig through the docs for the best solution.</li>
-</ul>
-<p>Worth noting that I don’t get crazy with the pseudo-code, just get the steps involved down on paper so I can see what is going on.</p>
-<p><strong>Take a lot of short breaks</strong><br />
-These little breaks bring me back to reality when I start to over-complicate the problem that is trying to be solved. These breaks often involve a “duh” moment.</p>
 </section>
 
 
