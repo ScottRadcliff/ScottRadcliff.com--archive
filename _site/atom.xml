@@ -4,13 +4,23 @@
  <title>Scott Radcliff</title>
  <link href="http://scottradcliff.com/atom.xml" rel="self"/>
  <link href="http://scottradcliff.com/"/>
- <updated>2011-02-18T08:47:41-05:00</updated>
+ <updated>2011-05-31T20:39:55-04:00</updated>
  <id>http://scottradcliff.com/</id>
  <author>
    <name>Scott Radcliff</name>
    <email>scott@scottradcliff.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Developer Pride</title>
+   <link href="http://scottradcliff.com/2011/05/31/developer-pride/"/>
+   <updated>2011-05-31T00:00:00-04:00</updated>
+   <id>http://scottradcliff.com/2011/05/31/developer-pride</id>
+   <content type="html">&lt;p&gt;Leave code better than you found it. I heard &lt;a href=&quot;http://twitter.com/#!/unclebobmartin&quot;&gt;Uncle Bob&lt;/a&gt; say that. I can&amp;#8217;t recall if it was a video, blog post, or interview; but it hit me right between the eyes. When I heard &amp;#8220;leave code better than you found it&amp;#8221;, I was actively developing around code. I saw code that could be better, but left it. I saw code that I didn&amp;#8217;t understand. Instead of  understanding it and using my code to extend it, I coded around that also.&lt;/p&gt;
+&lt;p&gt;What really sucks is that I never used to be that way. I &lt;em&gt;became&lt;/em&gt; that way. Tight deadlines, working with code I didn&amp;#8217;t write, and inexperience made me that way. Inexperience? No, not inexperience as a developer; inexperience working with others. Working with other developers is intimidating. I wonder if I am good enough, fast enough, or even smart enough. It&amp;#8217;s easy to try to work faster than I am capable of. The end result is never pleasant. As developers, we don&amp;#8217;t get faster by working faster. We get faster by becoming more efficient. No amount of corner cutting will change that. It took one sentence for me to be reminded of that.&lt;/p&gt;
+&lt;p&gt;It doesn&amp;#8217;t take much to leave code better. Reduce database calls or &lt;span class=&quot;caps&quot;&gt;HTTP&lt;/span&gt; requests, add some caching, optimize a block or loop, or &lt;a href=&quot;http://en.wikipedia.org/wiki/Don%27t_repeat_yourself&quot;&gt;&lt;span class=&quot;caps&quot;&gt;DRY&lt;/span&gt;&lt;/a&gt; something up. You don&amp;#8217;t have to refactor the entire application. Just refactor one method. Speaking of methods, this applies to more than server side code. Front end code needs this too. Simplify an &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; element, remove &lt;a href=&quot;http://www.apaddedcell.com/div-itis-what-it-and-how-avoid-it&quot;&gt;divitis&lt;/a&gt;, or reduce &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; duplication. Again, it doesn&amp;#8217;t take much. Just think if you did this every time you opened a file. Software would continually get better and would be generally more pleasant to use.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>A Smaller Bubble, but It's Still a Bubble</title>

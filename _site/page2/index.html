@@ -31,6 +31,30 @@
   
 <section>
   <header>
+    <h1 class="blog-heading"><a href="/2011/01/18/learning-web-design/" class="blog-heading">Learning Web Design</a></h1>
+  </header>
+  <p class="post-date">Posted on: Tuesday, January 18, 2011</p>
+    <p>As long as I can remember w3schools have been around and honestly I had no idea that it was not part of the official W3C. Recently a movement has been started to bring awareness that the information at w3schools is inaccurate and that the wrong information is worse than no information. While I do agree that information should be accurate, I wonder where new designers and developers to web design will get their information. Surely we can’t expect them to go through the actual documentation. Even seasoned pros find that painful to sift through.</p>
+<p>W3schools helped me quite a bit starting out. I don’t think the name was as much of a factor as the content. Even the fact that some of the content was inaccurate didn’t hurt me when I was starting out. It helped me get started quickly; as I learned more I expanded my resources.</p>
+<h2>Where should a person go to learn the syntax for making web sites?</h2>
+<p>I have spent some time searching for a suitable replacement. There isn’t one. Okay, let me rephrase that; there isn’t a <strong><em>good</em></strong> one. There are plenty of resources available, but they are fragmented at best. If someone that has experience is looking for documentation and knows what they are looking for, these resources work. But what about the person that doesn’t know what they are looking for? That person only knows that they want to do it the <em>right way</em>; the web standards way. Where do they go?</p>
+<h2>It’s time to build a better system</h2>
+<p><a href="http://w3fools.com/">http://w3fools.com/</a> makes mention of the community building a better system, but then shies away from the idea as if it is not possible. I believe it’s wrong to shy away from it. If we as a community are going to call an organization out because they have inaccurate information, we <strong>have</strong> to build something better.</p>
+<h2>Initial ideas</h2>
+<p>Here is what I think the new system has to have</p>
+<ul>
+	<li>A way to see immediate results with the code you are looking for. This is the one thing that I loved about w3schools; I could get immediate feedback with what happens when I do [x]. Those little text editors are a great learning tool.</li>
+	<li>Up to date documents that are completely searchable. I think <a href="http://apidock.com/">http://apidock.com/</a> does this well. As does <a href="http://railsapi.com/doc/rails-v3.0.3/">http://railsapi.com/doc/rails-v3.0.3/</a>. Something like that would be great, but with full text search.</li>
+	<li>Newbie friendly.</li>
+	<li>Editable. Similar to a wiki. I think this helps avoid the outdated problem, but raises another one in sources. Sources would have to be displayed for it to be credible.</li>
+</ul>
+<p>That would be a good start. I certainly couldn’t do it myself, but would be willing to jump in and help. I just can’t see complaining about something without action.</p>
+<p>If someone has already started something, I would love to hear about it and participate.</p>
+</section>
+
+
+<section>
+  <header>
     <h1 class="blog-heading"><a href="/2011/01/05/automating-tasks/" class="blog-heading">Automating Tasks</a></h1>
   </header>
   <p class="post-date">Posted on: Wednesday, January 05, 2011</p>
@@ -146,29 +170,6 @@
 <p>I got schooled, right there in front of the students. While trying to use -moz-text-shadow and watching it fail repeatedly, we discovered that text-shadow is now fully supported in Firefox. Firefox has dropped support for the vendor specific version. I assume Webkit has also.</p>
 <p>The hidden gem in all of this? Learning through exploration and dialogue. While I was trying to debug my <span class="caps">CSS</span> code, students hit the Internet in an attempt to help. It was actually a student that found out that Firefox dropped support for the tag. That type of learning cannot be duplicated. Those students will remember how we solved that problem. There is not a book available that can teach that.</p>
 <p>Lesson? <em>Always</em> have a non vendor specific fall back.</p>
-</section>
-
-
-<section>
-  <header>
-    <h1 class="blog-heading"><a href="/2010/11/30/bdd-newbie/" class="blog-heading">BDD for a Newbie</a></h1>
-  </header>
-  <p class="post-date">Posted on: Tuesday, November 30, 2010</p>
-    <p>I recently decided to put Cucumber and some <span class="caps">BDD</span> to use on a real app. One problem. I drew a complete blank.  Not just &#8220;how do I write this test&#8221; kind of blank, but more like a &#8220;Okay, I&#8217;m completely lost. I thought I knew how this stuff worked&#8221; kind of blank.</p>
-<p>Thanks to the awesome screencast from <a href="http://peepcode.com">PeepCode</a>, I realized that I was going about it wrong. At least from a beginner point of view. I was writing say, 4-5 steps and then running the tests with no idea on how I should write the code to make it pass.</p>
-<p>While watching the screencast I realized that I needed to break it down to one step. Just one very easy step at a time. Oh yeah, and there are already steps written in web_steps.rb. Use those.</p>
-<p>My code went from:</p>
-<p><code>Given I am a logged in user</code><br />
-<code>When I am on the index page</code><br />
-<code>I should see a list of items</code></p>
-<p>Which would fail on the first step and have a few undefined steps.</p>
-<p>To:</p>
-<p><code>Given I am on the index page</code></p>
-<p>Run that simple step. Make it pass, if doesn&#8217;t already, and then move on to the next step. I guess they are called steps for a reason after all.</p>
-<p>My next step at this point might be:</p>
-<p><code>I should see "My Super Cool App"</code></p>
-<p>Now run that step. Make it pass and add another. Do that until I reach the end of that scenario.</p>
-<p>This may seem silly to those that are fluent in <span class="caps">BDD</span>, but it really helped me wrap my head around the process of writing passing tests.</p>
 </section>
 
 
