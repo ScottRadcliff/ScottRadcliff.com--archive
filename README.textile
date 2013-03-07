@@ -1,7 +1,1 @@
-h1. ScottRadcliff.com
-
-p. This is the source for my personal blog powered by "Jekyll":http://jekyllrb.com/
-
-p. With any luck it will change over time, getting better while I add some features and with any luck a few plugins along the way.
-
-p. If you see something I could have implemented better, please let me know.
+h1. This repo is no longer active and just here for historical reasons
